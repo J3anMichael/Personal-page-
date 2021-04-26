@@ -1,7 +1,7 @@
 # Personal-page-
 ## Personal portfolio page ##
 
-## Home page Home page
+## Home 
 
 ## About
 
