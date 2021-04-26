@@ -1,12 +1,12 @@
 # Personal-page-
 ## Personal portfolio page ##
 
--[Home page] Home page
+## Home page Home page
 
--[] About
+## About
 
--[] Portfolio
+## Portfolio
 
--[] Contact 
+## Contact 
 
 # Loading #
